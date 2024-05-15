@@ -7,5 +7,9 @@ Tintin08035
 
 Bonour à tous, je m'appelle teuse. je n'aime pas cette blague mais je ne veux pas révéler mon identité secrète : martin gauchon. oups. je crée actuellement un conflit en écrivant ces mots
 Bonour à tous, je m'appelle teuse. je n'aime pas cette blague mais je ne veux pas révéler mon identité secrète : martin gauchon. oups. je crée un conflit
+<<<<<<< Updated upstream
 bonjour
 
+=======
+aurevoir
+>>>>>>> Stashed changes
